@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",                          /* Specify ECMAScript target version: 'ES3' (default) */
+    "sourceMap": true,                     /* Generates corresponding '.map' file. */
+    "outDir": "js",                        /* Redirect output structure to the directory. */
+
+    /* Strict Type-Checking Options */
+    "strict": true,                           /* Enable all strict type-checking options. */
+    
+    "watch": true,
+  },
+  // or "include": ["./**/*.ts"]
+  "files": [
+    "app/app.ts"
+  ]
+}
